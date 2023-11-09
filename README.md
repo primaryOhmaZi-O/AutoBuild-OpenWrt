@@ -6,3 +6,4 @@
 - 点击菜单上的“Action”，点击左侧要运行的工作流，然后转到右侧的“Run workflo”按钮，点击下拉菜单，点击绿色按钮“Run workflow（运行工作流）”。
 - 构建自动开始。可以在Actions页面上查看进度。
 - 当构建完成后，在Actions页面workflow run列表中点击已完成的工作流，在详情页中下载编译生成的Artifacts文件。
+- 默认Web管理IP: 192.168.5.1，用户名root，无登录密码
